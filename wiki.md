@@ -2,6 +2,10 @@
 ## GEOG 328 Students' Passing Rate
 ### Student Worktime Information
 
+Article link for student worktime and grades correlation: 
+- ["Effect of Quality and Quantity of Study on Student Grades"](https://www.tandfonline.com/doi/abs/10.1080/00220671.1990.10885960)
+- [Resource 2](url)
+- [Resource 3](url)
 
 ![](url for an image about your topic)
 
