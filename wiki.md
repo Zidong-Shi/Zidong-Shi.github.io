@@ -8,8 +8,7 @@ Article link for student worktime and grades correlation:
 - [Resource 3](url)
 
 Image of Student Study Hard: 
-
-![](StudentStudy.jpeg)
+![](https://www.insidehighered.com/sites/default/files/media/GettyImages-534644043.jpg)
 
 A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
 
