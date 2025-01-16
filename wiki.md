@@ -7,9 +7,9 @@ Article link for student worktime and grades correlation:
 - [Resource 2](url)
 - [Resource 3](url)
 
-![](url for an image about your topic)
+Image of Student Study Hard: 
 
-skdjncskjnkjsd
+![](/Users/Leeeeeo/Dropbox/GEOG328/Zidong-Shi.github.io/StudentStudy.jpeg)
 
 A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
 
